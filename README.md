@@ -4,9 +4,7 @@ Hi 👋 My name is Sunney Kang
 I am a Washington University in St. Louis Mathematics & Computer Science student that enjoys using Python and SQL to make life easier. I am passionate about data science and Web3.0!
 
 * 🌍  I'm based in DMV
-* ✉️  You can contact me at [sunneyk2002@gmail.com](mailto:sunneyk2002@gmail.com)
-* 🧠  I'm learning Solidity
-
+* ✉️  You can contact me at [sunneykang@wustl.edu](mailto:sunneykang@wustl.edu)
 ### Skills
 
 <p align="left">
